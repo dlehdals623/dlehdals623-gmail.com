@@ -7,9 +7,6 @@
  border:1px solid black; border-collapse:collapse;
 }
 </style>
- 
-</style>
-</style>
 <!-- border-collapse:collapse 단선으로,반대는 separate -->
 <title>HTML 테이블 테스트 실습</title>
 </head>
